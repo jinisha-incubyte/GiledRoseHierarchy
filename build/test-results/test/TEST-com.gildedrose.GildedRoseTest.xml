@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gildedrose.GildedRoseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-23T10:55:49" hostname="DESKTOP-90405JU" time="0.003">
+<testsuite name="com.gildedrose.GildedRoseTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-06-09T08:54:01" hostname="DESKTOP-90405JU" time="0.007">
   <properties/>
-  <testcase name="agedTypeQualityNotAboveFifty" classname="com.gildedrose.GildedRoseTest" time="0.003"/>
+  <testcase name="backstageTypeTestIncreasesQualityByThreeWhenIfSellInLessThanSix" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="conjuredTypeTestComplete" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="backstageTypeTestIncreasesQualityByTwoWhenIfSellInLessThanEleven" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="backstageTypeTestCompleteFlow" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="conjuredTypeTestQualityDecreasesByFourWhenBelowSellIn" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="agedTypeTestQualityIncreasesByTwoWhenBelowSellIn" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="backstageTypeTestQualityIsZeroWhenSellInIsComplete" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="agedTypeTest" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="foo" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="standardTypeTestDecreasesQualityByTwoIfSellInLessThanZero" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="standardTypeTest" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="backstageTypeQualityNotAboveFifty" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="standardTypeTestQualityNotLessThanZero" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="conjuredTypeTestQualityDecreasesByTwoWhenAboveSellIn" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="legendaryTypeQualityAndSellInDoesNotChange" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="conjuredTypeTestQualityNotBelowZero" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="agedTypeQualityNotAboveFifty" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
